@@ -17,13 +17,13 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-| File                                             | Source                                                                                                         |
-| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| `assets/images/skullguy-removebg-preview.png`    | pixel_dreams, Skeleton Walk Animation Cycle Sprites, Four Directions, Retro Game Pixel Art Style — Adobe Stock |
-| `assets/images/ghost1vJjWG-removebg-preview.png` | Master-Blazter, Ghost Sprite Pack — itch.io                                                                    |
+| File                                             | Source                                                                                                             |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| `assets/images/skullguy-removebg-preview.png`    | pixel_dreams, Skeleton Walk Animation Cycle Sprites, Four Directions, Retro Game Pixel Art Style — Adobe Stock [1] |
+| `assets/images/ghost1vJjWG-removebg-preview.png` | Master Blazter, Ghost Sprite Pack — itch.io [2]                                                                    |
 
 ## References
 
-Bellanger, C. n.d. _Animated ghosts_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/animated-ghosts-0
+[1] Master Blazter. Ghost sprite pack by master blazter. Retrieved June 10, 2026b from https://master-blazter.itch.io/ghostspritepack
 
-Slynyrd. 2019. _Pixelblog 22: Top Down Character Sprites_. Slynyrd Blog. Retrieved May 1, 2026, from https://www.slynyrd.com/blog/2019/10/21/pixelblog-22-top-down-character-sprites
+[2] pixel_dreams.Retrieved June 10, 2026e from https://stock.adobe.com/at/images/skeleton-walk-animation-cycle-sprites-four-directions-retro-game-pixel-art-style/144585898
