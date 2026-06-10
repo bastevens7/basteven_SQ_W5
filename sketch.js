@@ -76,10 +76,10 @@ const MAZE = [
 // Colours for each tile type — stored as RGB arrays
 const TILE_COLORS = {
   0: [40, 40, 50], // floor — dark grey
-  1: [80, 60, 100], // wall  — purple-grey
+  1: [10, 10, 10], // wall  — purple-grey
   2: [40, 40, 50], // start — same as floor
   3: [40, 40, 50], // ghost  — same as floor (ghost drawn on top)
-  4: [60, 100, 80], // exit  — green tint when locked
+  4: [250, 100, 100], // exit  — green tint when locked
 };
 
 // ------------------------------------------------------------
